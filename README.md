@@ -7,7 +7,7 @@ un grand départ. Ici, chaque composant est vérifié, chaque direction
 anticipée, et chaque signal bien pensé. Ce scaffold est conçu pour
 accompagner les développeurs dans leur parcours, comme une voiture bien
 préparée avant un long voyage ou un événement majeur.
-- imagine pour un avion , ou des avions gares les uns tous a cotes. on verifie les aimes de lavion.
+- imagine pour un avion , ou des avions gares les uns tous a cotes. on verifie les ailes de lavion.
 - 
 🛠️ Contrôle technique du projet
 
